@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Humming_bird",
+"productVersion": "0.1",
+"dataUrl": "FinalWebGL.data.unityweb",
+"wasmCodeUrl": "FinalWebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "FinalWebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.12f1"
+}
